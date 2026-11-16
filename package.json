@@ -1,0 +1,33 @@
+{
+  "name": "totally-cool",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Totally Cool — immersive climate engineering experience for South Africa's HVAC and refrigeration specialists.",
+  "scripts": {
+    "pages": "node scripts/generate-pages.mjs",
+    "predev": "npm run pages",
+    "dev": "vite",
+    "prebuild": "npm run pages",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "og": "node scripts/generate-og.mjs"
+  },
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "lenis": "^1.1.20",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/animejs": "^3.1.12",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.170.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

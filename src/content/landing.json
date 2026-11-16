@@ -1,0 +1,679 @@
+{
+  "services": [
+    {
+      "slug": "air-conditioning",
+      "index": "01",
+      "metaTitle": "Air Conditioning Installation & Repair | Totally Cool",
+      "metaDescription": "Inverter splits, ducted and multi-split air conditioning installed, repaired and maintained across South Africa. Sized correctly, guaranteed. Call 078 963 5441.",
+      "heroKicker": "Service 01 / 07",
+      "heroTitle": "Air conditioning,",
+      "heroAccent": "engineered to the kilowatt.",
+      "lede": "From a single bedroom unit to a multi-split floor, we size the load, select the equipment and commission the system to its rated capacity — then keep it there.",
+      "summary": [
+        { "label": "Typical install", "value": "3–5 hours" },
+        { "label": "Equipment", "value": "Samsung · LG · Daikin" },
+        { "label": "Warranty", "value": "Workmanship guaranteed" },
+        { "label": "Response", "value": "2–4 h Gauteng" }
+      ],
+      "introTitle": "What the job actually involves",
+      "intro": [
+        "Air conditioning fails for boring reasons: a unit sized by guesswork, a coil that has never been cleaned, a drain that was never pitched, or a refrigerant charge nobody verified. We start with the load and work backwards.",
+        "Our teams install and repair inverter splits, ducted systems and multi-splits for homes, offices and retail floors. The vans carry parts for the common faults, so most repairs finish on the first visit."
+      ],
+      "scopeTitle": "From heat load to handover",
+      "scope": [
+        { "title": "Heat-load survey", "body": "Room orientation, glazing, occupancy and equipment gains are measured before a kilowatt is specified." },
+        { "title": "Equipment selection", "body": "Correctly sized inverter or ducted equipment from brands we can support with parts and warranty." },
+        { "title": "Install and commission", "body": "Clean pipework, correct drainage, torque and vacuum checks, then performance verified against the design." },
+        { "title": "Handover and service", "body": "As-built notes, operating guidance and an optional service schedule that protects the warranty." }
+      ],
+      "signalsTitle": "What a struggling system sounds like",
+      "signalsLead": "If any of these sound familiar, the unit is telling you something. A measured diagnosis is cheaper than replacing parts by guesswork.",
+      "signals": [
+        "Running but not cooling",
+        "Water staining the ceiling",
+        "Electricity bill climbing",
+        "Short-cycling or tripping",
+        "Musty smell on start-up",
+        "Ice forming on the indoor unit"
+      ],
+      "proof": {
+        "value": "−32%",
+        "label": "Typical inverter energy draw",
+        "note": "Modelled against a fixed-speed baseline. Actual savings depend on load, setpoint and the building envelope."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "sandton", "label": "Sandton", "body": "Occupied offices and multi-split floors, installed after hours with commissioning documented for the facilities team." },
+        { "areaSlug": "randburg", "label": "Randburg", "body": "Suburban homes and home offices, including the split-unit restorations that built the company's reputation." },
+        { "areaSlug": "cape-town", "label": "Cape Town", "body": "Coastal installations specified with corrosion protection and a shorter condenser cleaning cycle." }
+      ],
+      "faqs": [
+        { "q": "How long does an installation take?", "a": "A standard residential split takes three to five hours. Multi-split and ducted work is scoped per site, and commercial floors are phased around occupancy." },
+        { "q": "Which brands do you install?", "a": "Samsung, LG, Daikin, Carrier, Midea, Gree, York, Hitachi and Fujitsu. We will not sell a brand we cannot support with parts." },
+        { "q": "Repair or replace?", "a": "If the compressor and coil are sound and parts are available, repair usually wins. If the unit is beyond economical repair, we say so and quote both paths." }
+      ],
+      "related": ["commercial-hvac", "energy", "maintenance"]
+    },
+    {
+      "slug": "commercial-hvac",
+      "index": "02",
+      "metaTitle": "Commercial HVAC Design & Installation | Totally Cool",
+      "metaDescription": "Commercial HVAC fit-outs for offices, retail, warehouses and hospitality: load modelling, ducting, AHUs, chillers, controls and commissioning.",
+      "heroKicker": "Service 02 / 07",
+      "heroTitle": "Whole-building climate,",
+      "heroAccent": "from plant room to ceiling.",
+      "lede": "Design, install and commission mechanical HVAC for buildings that cannot afford uncomfortable tenants or energy bills nobody can explain.",
+      "summary": [
+        { "label": "Scope", "value": "Design → commission" },
+        { "label": "Sectors", "value": "Office · retail · industrial" },
+        { "label": "Documentation", "value": "As-built + balancing" },
+        { "label": "Record", "value": "28% saving, Sandton" }
+      ],
+      "introTitle": "One chain of decisions",
+      "intro": [
+        "A commercial system is a chain: plant capacity, distribution, zoning, controls and commissioning. Get one link wrong and the building tells you about it for the next decade.",
+        "We work with property teams, fit-out contractors and consultants to deliver systems that are balanced, documented and maintainable — not just switched on and handed over."
+      ],
+      "scopeTitle": "From model to handover pack",
+      "scope": [
+        { "title": "Load model", "body": "Occupancy, solar gain, ventilation and internal loads modelled per zone before plant is selected." },
+        { "title": "Plant and distribution", "body": "Chillers, AHUs, VRF and ductwork specified as one system, with maintenance access designed in." },
+        { "title": "Controls and zoning", "body": "Schedules, setpoints and zoning that match how the building is actually used, not how it was drawn." },
+        { "title": "Commission and document", "body": "Air and water balancing, performance checks, as-builts and a handover pack the facilities team can use." }
+      ],
+      "signalsTitle": "Where commercial systems go wrong",
+      "signalsLead": "Comfort complaints are usually a symptom of a system that was never balanced, zoned or commissioned against its design intent.",
+      "signals": [
+        "Floors that never balance",
+        "Tenant comfort complaints",
+        "Plant running flat out at 10:00",
+        "Condensation on diffusers",
+        "No zoning after a refit",
+        "Energy spend rising with occupancy"
+      ],
+      "proof": {
+        "value": "28%",
+        "label": "Measured energy reduction",
+        "note": "Sandton commercial HQ, three floors, against the prior 12-month baseline after inverter commissioning."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "sandton", "label": "Sandton", "body": "Three-floor occupied fit-out delivered without closing the business, with phased works and after-hours commissioning." },
+        { "areaSlug": "johannesburg", "label": "Johannesburg CBD", "body": "Older building stock where new plant must fit existing risers, plant rooms and access routes." },
+        { "areaSlug": "pretoria", "label": "Pretoria", "body": "Commercial and institutional buildings across Centurion and Pretoria East, with maintenance planned around occupants." }
+      ],
+      "faqs": [
+        { "q": "Can you work in an occupied building?", "a": "Yes. Works are phased by floor or zone, with after-hours commissioning where noise or shutdowns would disrupt tenants." },
+        { "q": "Do you design as well as install?", "a": "We model loads, select plant and design distribution and controls. We also review third-party designs before installation." },
+        { "q": "How long does a fit-out take?", "a": "A single floor is weeks; a multi-floor building is a programme. We publish a phased schedule before mobilising." }
+      ],
+      "related": ["air-conditioning", "ventilation", "maintenance"]
+    },
+    {
+      "slug": "refrigeration",
+      "index": "03",
+      "metaTitle": "Commercial Refrigeration Repair & Install | Totally Cool",
+      "metaDescription": "Display fridges, prep counters, blast chillers and walk-ins installed and repaired for restaurants, supermarkets and food producers. 24/7 callout.",
+      "heroKicker": "Service 03 / 07",
+      "heroTitle": "The cold chain",
+      "heroAccent": "does not get a lunch break.",
+      "lede": "Commercial refrigeration for kitchens, stores and producers — diagnosed fault-first, repaired with parts on the van, and backed by a 24-hour line when stock is at risk.",
+      "summary": [
+        { "label": "Response", "value": "24/7 line" },
+        { "label": "On-site target", "value": "2 hours" },
+        { "label": "Refrigerants", "value": "Low-GWP blends" },
+        { "label": "Stock lost", "value": "R0 record" }
+      ],
+      "introTitle": "A revenue problem with a deadline",
+      "intro": [
+        "A warm display fridge is not a maintenance issue for later. We diagnose the actual fault — refrigerant loss, airflow restriction, control failure or compressor wear — before quoting parts.",
+        "We service and install display cases, prep counters, blast chillers, ice machines and walk-in units, and carry the common components so the first visit usually finishes the job."
+      ],
+      "scopeTitle": "Fault-first, then fixed",
+      "scope": [
+        { "title": "Fault-first diagnosis", "body": "Temperature, pressures, airflow and electrical draw measured before any part is ordered." },
+        { "title": "Refrigerant integrity", "body": "Leak detection and repair, correct evacuation and charge, with the type and weight logged." },
+        { "title": "Mechanical repair", "body": "Compressors, condensers, fans, controls and door systems, using manufacturer-backed parts." },
+        { "title": "Monitor and maintain", "body": "Temperature alarms and a service cycle that catches drift before it becomes a stock loss." }
+      ],
+      "signalsTitle": "Signs the cabinet is losing the argument",
+      "signalsLead": "Small temperature drifts are easy to ignore until service starts. The earlier a fault is measured, the less stock is exposed.",
+      "signals": [
+        "Display running warm",
+        "Ice building on the coil",
+        "Compressor cycling constantly",
+        "Water on the floor",
+        "Alarm at 02:00",
+        "Temperature creeping overnight"
+      ],
+      "proof": {
+        "value": "R0",
+        "label": "Stock lost on emergency callout",
+        "note": "Compressor failure in a Johannesburg restaurant cold room; parts sourced and the room running by 02:00."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "johannesburg", "label": "Johannesburg", "body": "Restaurant and retail kitchens where a failure at service time threatens both stock and covers." },
+        { "areaSlug": "cape-town", "label": "Cape Town", "body": "Food and beverage producers running walk-in freezers against a daily dispatch schedule." },
+        { "areaSlug": "durban", "label": "Durban", "body": "Hospitality and retail sites where humidity and salt air accelerate coil and cabinet corrosion." }
+      ],
+      "faqs": [
+        { "q": "Do you answer at night?", "a": "The emergency line runs 24/7. Cold rooms and refrigeration holding stock are prioritised." },
+        { "q": "Can you save the stock?", "a": "We triage by temperature and product, then bring the unit back safely. In the Johannesburg recovery, nothing was lost." },
+        { "q": "Do you service display fridges too?", "a": "Yes — display cases, prep counters, blast chillers and ice machines, not only walk-ins." }
+      ],
+      "related": ["cold-rooms", "maintenance", "energy"]
+    },
+    {
+      "slug": "cold-rooms",
+      "index": "04",
+      "metaTitle": "Cold Room Design, Build & Repair | Totally Cool",
+      "metaDescription": "Cold rooms and freezer rooms designed, built and repaired across South Africa. Panels, doors, condensing units, monitoring from +15 °C to −25 °C.",
+      "heroKicker": "Service 04 / 07",
+      "heroTitle": "Panels, plant and protocol —",
+      "heroAccent": "built as one system.",
+      "lede": "A cold room is only as good as its weakest detail: a door seal, a drain, a defrost cycle. We design the envelope and the plant together, then commission the whole room.",
+      "summary": [
+        { "label": "Range", "value": "+15 to −25 °C" },
+        { "label": "Scope", "value": "New · refurb · repair" },
+        { "label": "Monitoring", "value": "Alarm + logging" },
+        { "label": "Emergency", "value": "24/7 line" }
+      ],
+      "introTitle": "The weak detail decides",
+      "intro": [
+        "Most cold-room failures start small: a torn gasket, a blocked drain, a defrost heater that stopped. By the time the alarm is noticed, the stock is already warming.",
+        "We build and repair insulated panel rooms, freezer rooms and blast rooms, sizing the condensing unit around the real duty — product load, door openings and ambient — rather than a catalogue guess."
+      ],
+      "scopeTitle": "Duty, envelope, plant, proof",
+      "scope": [
+        { "title": "Duty calculation", "body": "Product, turnover and door traffic define the load; ambient conditions define the condensing duty." },
+        { "title": "Envelope specification", "body": "Panel thickness, floor insulation, door type and seals specified for the temperature and traffic." },
+        { "title": "Plant installation", "body": "Condensing units, evaporators, drains and defrost controls installed with service access." },
+        { "title": "Commission and monitor", "body": "Pull-down verified, alarms set, temperatures logged and handed over with operating limits." }
+      ],
+      "signalsTitle": "Before the stock tells you",
+      "signalsLead": "A cold room rarely fails without warning. It drifts, cycles and ices up first — if anyone is measuring.",
+      "signals": [
+        "Temperature drifting overnight",
+        "Ice on the floor",
+        "Door not sealing",
+        "Compressor running non-stop",
+        "Alarm fatigue",
+        "Room too small for the stock"
+      ],
+      "proof": {
+        "value": "0",
+        "label": "Stock lost on emergency callout",
+        "note": "Johannesburg restaurant cold room, compressor replaced overnight with a full service stock inside."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "johannesburg", "label": "Johannesburg", "body": "Restaurant and food-service rooms where the door opens all service and the load never settles." },
+        { "areaSlug": "cape-town", "label": "Cape Town", "body": "Walk-in freezers supporting daily dispatch, returned to temperature overnight." },
+        { "areaSlug": "durban", "label": "Durban", "body": "Kitchen cold rooms in a humid coastal climate, where drainage and defrost matter as much as capacity." }
+      ],
+      "faqs": [
+        { "q": "Can you repair an existing room?", "a": "Yes. We repair panels, doors, drains, evaporators and condensing units, and we will say when a refurbishment is cheaper than repeated repairs." },
+        { "q": "How long does a new room take?", "a": "A small service room is days; a larger build is a programme. Panel and plant lead times set the critical path." },
+        { "q": "Do you provide monitoring?", "a": "Alarm and logging options are specified with the room so temperature excursions are visible before stock is lost." }
+      ],
+      "related": ["refrigeration", "maintenance", "energy"]
+    },
+    {
+      "slug": "ventilation",
+      "index": "05",
+      "metaTitle": "Ventilation & Indoor Air Quality Systems | Totally Cool",
+      "metaDescription": "Kitchen extraction, fresh-air supply, ducting and filtration designed, installed and balanced for South African buildings. Occupancy-led airflow.",
+      "heroKicker": "Service 05 / 07",
+      "heroTitle": "A building",
+      "heroAccent": "that can breathe.",
+      "lede": "Extraction, fresh air and filtration designed around occupancy and measured after installation — because a fan curve is not a guarantee of airflow.",
+      "summary": [
+        { "label": "Testing", "value": "Airflow + pressure" },
+        { "label": "Design", "value": "Occupancy-led" },
+        { "label": "Scope", "value": "New · retrofit" },
+        { "label": "Handover", "value": "Balanced" }
+      ],
+      "introTitle": "Ventilation hides in plain sight",
+      "intro": [
+        "Ventilation problems rarely look like ventilation problems. They look like sleepy meetings, a kitchen that never clears, condensation on glass, or a smell that follows people through the building.",
+        "We measure the existing airflow, design to the occupancy and the process, then balance the system so every branch delivers what the drawing promised."
+      ],
+      "scopeTitle": "Measure, design, balance",
+      "scope": [
+        { "title": "Occupancy survey", "body": "People, processes and pollutants define the fresh-air and extraction rates." },
+        { "title": "Duct and plant design", "body": "Routes, velocities, attenuation and access planned around the building, not the catalogue." },
+        { "title": "Filtration and supply", "body": "Filtration class and supply strategy matched to the use — office, kitchen, basement or workshop." },
+        { "title": "Balance and verify", "body": "Airflow and pressure measured at each terminal, then adjusted and documented." }
+      ],
+      "signalsTitle": "The symptoms occupants notice",
+      "signalsLead": "If the air feels stale, the kitchen never clears or the windows run with condensation, the system is not delivering its design intent.",
+      "signals": [
+        "Kitchen smoke hanging",
+        "Stale meeting rooms",
+        "Condensation on windows",
+        "Mould near diffusers",
+        "Whistling grilles",
+        "Dust settling on desks"
+      ],
+      "proof": {
+        "value": "100%",
+        "label": "Terminals balanced before handover",
+        "note": "Airflow and pressure measured at every terminal; readings included in the handover pack."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "johannesburg", "label": "Johannesburg", "body": "Restaurant kitchens and CBD buildings where extraction routes are constrained by neighbouring tenants." },
+        { "areaSlug": "sandton", "label": "Sandton", "body": "Office floors where fresh-air rates and noise are both part of the tenant experience." },
+        { "areaSlug": "durban", "label": "Durban", "body": "Coastal humidity makes supply-air dew point and drainage part of the design, not an afterthought." }
+      ],
+      "faqs": [
+        { "q": "Can you fix a smoky kitchen?", "a": "Usually. We measure the hood, duct velocity and replacement air, then correct the weakest link rather than adding a bigger fan." },
+        { "q": "Do you test existing systems?", "a": "Yes. We measure airflow and pressure, compare against the design intent and report what is actually happening." },
+        { "q": "Will it be noisy?", "a": "Velocity, attenuation and terminal selection are designed together. Noise is a design parameter, not a complaint to handle later." }
+      ],
+      "related": ["commercial-hvac", "air-conditioning", "maintenance"]
+    },
+    {
+      "slug": "maintenance",
+      "index": "06",
+      "metaTitle": "HVAC Maintenance Contracts & 24/7 Repair | Totally Cool",
+      "metaDescription": "Planned HVAC and refrigeration maintenance from R300 per month. Scheduled servicing, priority four-hour response, discounted repairs and written reports.",
+      "heroKicker": "Service 06 / 07",
+      "heroTitle": "Prevent the breakdown,",
+      "heroAccent": "not just the invoice.",
+      "lede": "Planned maintenance protects efficiency, equipment life and manufacturer warranty — and replaces midnight emergencies with a schedule you can budget for.",
+      "summary": [
+        { "label": "Contracts", "value": "From R300 / month" },
+        { "label": "Priority", "value": "4-hour response" },
+        { "label": "Reporting", "value": "Written service reports" },
+        { "label": "Record", "value": "3 years, zero breakdowns" }
+      ],
+      "introTitle": "The expensive way to maintain a system",
+      "intro": [
+        "A neglected system does not fail politely. It loses capacity slowly, draws more power, then stops on the hottest day of the year with a full building and no spare parts.",
+        "Our contracts cover scheduled servicing, filter and coil care, refrigerant checks, electrical safety and reporting, with priority response when something does go wrong."
+      ],
+      "scopeTitle": "A schedule with a paper trail",
+      "scope": [
+        { "title": "Asset register", "body": "Every unit, location and criticality recorded so nothing is serviced by memory." },
+        { "title": "Service schedule", "body": "Visits planned around equipment type, duty and the building's operating calendar." },
+        { "title": "Priority response", "body": "Contracted sites get a four-hour on-site window and discounted repair rates." },
+        { "title": "Report and plan", "body": "Written findings, photos and a replacement forecast your budget can absorb." }
+      ],
+      "signalsTitle": "When maintenance is already overdue",
+      "signalsLead": "None of these are emergencies yet. All of them become one eventually.",
+      "signals": [
+        "Service date unknown",
+        "Warranty at risk",
+        "Same fault twice",
+        "Energy creeping up",
+        "No asset list",
+        "Emergency-only maintenance"
+      ],
+      "proof": {
+        "value": "3",
+        "label": "Years, zero breakdowns",
+        "note": "Midrand office park under a planned maintenance contract; no unplanned breakdowns across the term."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "randburg", "label": "Randburg", "body": "Home and small-business systems on annual or biannual service cycles." },
+        { "areaSlug": "johannesburg", "label": "Midrand", "body": "Multi-tenant office parks with quarterly servicing and a priority response window." },
+        { "areaSlug": "johannesburg", "label": "Rosebank", "body": "Restaurant equipment where refrigeration and kitchen ventilation share a maintenance calendar." }
+      ],
+      "faqs": [
+        { "q": "What is included?", "a": "Scheduled servicing, filter and coil care, refrigerant and electrical checks, priority response and a written report. Scope follows the equipment count." },
+        { "q": "How much does it cost?", "a": "Plans start from R300 per month and are scoped to equipment count, criticality and access. You approve a fixed schedule before it starts." },
+        { "q": "Can you take over existing equipment?", "a": "Yes, provided the prior service history and warranty position are clear. We audit the plant before quoting the schedule." }
+      ],
+      "related": ["air-conditioning", "refrigeration", "commercial-hvac"]
+    },
+    {
+      "slug": "energy",
+      "index": "07",
+      "metaTitle": "HVAC Energy Audits & Retrofits | Totally Cool",
+      "metaDescription": "HVAC energy audits, inverter retrofits and smart controls with measured savings. Written payback model and post-install verification.",
+      "heroKicker": "Service 07 / 07",
+      "heroTitle": "Find the money",
+      "heroAccent": "your building is leaking.",
+      "lede": "Most HVAC energy waste is structural: fixed-speed plant, uncontrolled zoning, fouled coils and simultaneous heating and cooling. We measure it, price the fix and verify the result.",
+      "summary": [
+        { "label": "Typical saving", "value": "18–35% HVAC draw" },
+        { "label": "Deliverable", "value": "Audit + payback model" },
+        { "label": "Scope", "value": "Fixed, itemised" },
+        { "label": "Verification", "value": "Measured after commissioning" }
+      ],
+      "introTitle": "An audit, not a brochure",
+      "intro": [
+        "An energy audit that only lists recommendations is a sales document. Ours starts with metered consumption and ends with a fixed-scope upgrade and a measurement plan.",
+        "We isolate the losses — plant, controls, distribution, envelope interaction — then prioritise the work by payback rather than by what is easiest to sell."
+      ],
+      "scopeTitle": "From meter to verified saving",
+      "scope": [
+        { "title": "Metered audit", "body": "Consumption, operating hours, setpoints and plant behaviour measured across a representative period." },
+        { "title": "Loss isolation", "body": "Fixed-speed plant, uncontrolled zones, fouled coils and simultaneous heating and cooling quantified." },
+        { "title": "Retrofit", "body": "Inverter drives, controls, zoning and equipment replacement installed as a fixed scope." },
+        { "title": "Measure and verify", "body": "Post-commissioning consumption compared against the baseline and reported." }
+      ],
+      "signalsTitle": "Where the money usually goes",
+      "signalsLead": "These are the losses we find before anyone needs to talk about new equipment.",
+      "signals": [
+        "Bill jumped after a refit",
+        "Plant runs at fixed speed",
+        "No zoning or schedules",
+        "Coils never cleaned",
+        "Heating and cooling together",
+        "Tenants control their own setpoints"
+      ],
+      "proof": {
+        "value": "28%",
+        "label": "Measured energy reduction",
+        "note": "Sandton commercial HQ, three floors, measured against the prior 12-month baseline."
+      },
+      "localTitle": "Where this work runs",
+      "local": [
+        { "areaSlug": "sandton", "label": "Sandton", "body": "Commercial floors where after-hours plant operation and missing zoning are usually the first losses found." },
+        { "areaSlug": "johannesburg", "label": "Johannesburg", "body": "Mixed-use buildings where metering is shared and the HVAC baseline has to be reconstructed." },
+        { "areaSlug": "pretoria", "label": "Pretoria", "body": "Older plant rooms where controls and inverter retrofits deliver before equipment replacement is needed." }
+      ],
+      "faqs": [
+        { "q": "What does an audit cost?", "a": "Audits are quoted as a fixed scope after a site walk, based on plant count and metering. You get the model and the numbers whether or not you proceed." },
+        { "q": "Do you guarantee the saving?", "a": "We model the saving, install a fixed scope and measure the result. We do not promise a number we cannot verify." },
+        { "q": "Where do savings usually come from?", "a": "Controls and scheduling first, then inverter retrofits, then equipment replacement. Cleaning and airflow correction often pay back fastest." }
+      ],
+      "related": ["maintenance", "commercial-hvac", "air-conditioning"]
+    }
+  ],
+  "areas": [
+    {
+      "slug": "randburg",
+      "name": "Randburg",
+      "region": "Gauteng",
+      "index": "01",
+      "metaTitle": "HVAC & Refrigeration in Randburg | Totally Cool",
+      "metaDescription": "Air conditioning, refrigeration and cold-room specialists based in Randburg since 1994. Emergency HVAC response across Gauteng. Call 078 963 5441.",
+      "heroKicker": "Area 01 / 06 · Gauteng",
+      "heroTitle": "HVAC & refrigeration in",
+      "heroAccent": "Randburg.",
+      "lede": "This is home. Our base, workshop and first call-outs are here, which is why Randburg sites usually see a technician fastest.",
+      "summary": [
+        { "label": "Base", "value": "Randburg" },
+        { "label": "Emergency", "value": "24/7 line" },
+        { "label": "Gauteng response", "value": "2–4 hours" },
+        { "label": "Since", "value": "1994" }
+      ],
+      "introTitle": "Three cooling problems on one street",
+      "intro": [
+        "Randburg is a mix of family homes, home offices, low-rise retail and light industrial units — three very different cooling problems on the same street.",
+        "Because the base is here, this is where response is tightest and where the workshop can support a repair that needs a part stripped, cleaned or rebuilt."
+      ],
+      "approachTitle": "How we work in Randburg",
+      "approach": [
+        { "title": "Start at the base", "body": "The workshop and stores are here, so common parts and bench work do not wait for a courier." },
+        { "title": "Support the repair", "body": "Where a board or compressor can be rebuilt, the workshop is minutes away rather than a return trip inland." },
+        { "title": "Keep the home live", "body": "Residential work is scheduled around occupants, with the system left running wherever the repair allows." }
+      ],
+      "localTitle": "What Randburg work looks like",
+      "local": [
+        { "title": "Suburban splits", "body": "Older units with blocked coils, slow leaks and drains that were never pitched correctly. A full service and recharge often restores rated capacity." },
+        { "title": "Home offices", "body": "Rooms converted from studies or garages with a heat load nobody calculated. We size the unit to the actual occupancy and glazing." },
+        { "title": "Small commercial", "body": "Shops and restaurants where refrigeration and comfort cooling share a maintenance calendar and one point of accountability." }
+      ],
+      "systems": ["Inverter splits", "Multi-split systems", "Commercial refrigeration", "Cold rooms", "Kitchen ventilation", "Maintenance contracts"],
+      "proof": {
+        "value": "100%",
+        "label": "Rated capacity restored",
+        "note": "Randburg residential split with blocked coils, a refrigerant leak and fouled filters; same-day service and recharge."
+      },
+      "faqs": [
+        { "q": "Are you actually based in Randburg?", "a": "Yes. The base and workshop are in Randburg, Gauteng, and have been since 1994." },
+        { "q": "How quickly can you get here?", "a": "Randburg sits inside our core metro, with a 2–4 hour emergency target and 24/7 phone coverage." },
+        { "q": "Do you work on homes as well as businesses?", "a": "Both. Residential splits and home offices, through to retail, restaurant refrigeration and cold rooms." }
+      ],
+      "relatedAreas": ["sandton", "johannesburg"],
+      "relatedServices": ["air-conditioning", "cold-rooms", "maintenance"]
+    },
+    {
+      "slug": "sandton",
+      "name": "Sandton",
+      "region": "Gauteng",
+      "index": "02",
+      "metaTitle": "Air Conditioning & HVAC in Sandton | Totally Cool",
+      "metaDescription": "Commercial HVAC and air conditioning for Sandton offices and retail. Load modelling, multi-split and VRF, after-hours installation, documented commissioning.",
+      "heroKicker": "Area 02 / 06 · Gauteng",
+      "heroTitle": "Commercial HVAC in",
+      "heroAccent": "Sandton.",
+      "lede": "Sandton buildings cannot close for a refit. We phase the work by floor and zone, commission after hours where needed, and hand over documentation the facilities team can use.",
+      "summary": [
+        { "label": "Sector", "value": "Office · retail" },
+        { "label": "Works", "value": "Phased, after hours" },
+        { "label": "Documentation", "value": "As-built + balancing" },
+        { "label": "Record", "value": "28% saving" }
+      ],
+      "introTitle": "Tenanted buildings are unforgiving",
+      "intro": [
+        "Sandton's building stock is dense, occupied and unforgiving. A diffuser that drips or a floor that never reaches setpoint becomes a tenant complaint before lunch.",
+        "We deliver commercial HVAC, multi-split and VRF systems in occupied buildings, with access, noise and shutdown windows planned before mobilisation."
+      ],
+      "approachTitle": "How we work in Sandton",
+      "approach": [
+        { "title": "Phase by floor", "body": "Work is sequenced so tenants keep working; temporary cooling and dust control go in where ceilings open." },
+        { "title": "Commission after hours", "body": "Noise and shutdown windows are agreed with building management and used for the disruptive steps." },
+        { "title": "Document for facilities", "body": "Balancing records, as-builts and control schedules are handed over, not left in a contractor's inbox." }
+      ],
+      "localTitle": "What Sandton work looks like",
+      "local": [
+        { "title": "Occupied floors", "body": "Works sequenced floor by floor, with temporary cooling and dust control where the ceiling has to open." },
+        { "title": "Commercial fit-outs", "body": "Load models per zone, plant and distribution selected together, controls set to the way the tenant actually uses the floor." },
+        { "title": "Energy pressure", "body": "After-hours plant operation and missing zoning are usually the first losses we find in Sandton buildings." }
+      ],
+      "systems": ["VRF / multi-split", "Ducted systems", "AHU and plant", "Ventilation", "Building controls", "Maintenance contracts"],
+      "proof": {
+        "value": "28%",
+        "label": "Energy reduction, three floors",
+        "note": "Sandton commercial HQ; inverter systems commissioned with zero business disruption."
+      },
+      "faqs": [
+        { "q": "Can you install after hours?", "a": "Yes. Noise, access and shutdown windows are agreed with building management before work starts." },
+        { "q": "Will tenants be disrupted?", "a": "The programme is phased to keep floors live. Where a shutdown is unavoidable, it is scheduled and communicated in advance." },
+        { "q": "Do you maintain what you install?", "a": "Yes, and we recommend a contract from handover so warranty, filters and refrigerant checks stay on schedule." }
+      ],
+      "relatedAreas": ["randburg", "johannesburg"],
+      "relatedServices": ["commercial-hvac", "air-conditioning", "maintenance"]
+    },
+    {
+      "slug": "johannesburg",
+      "name": "Johannesburg",
+      "region": "Gauteng",
+      "index": "03",
+      "metaTitle": "HVAC & Cold Rooms in Johannesburg | Totally Cool",
+      "metaDescription": "HVAC, commercial refrigeration and cold-room repair across Johannesburg — CBD, Rosebank, Fourways and Soweto. 24/7 emergency line. Since 1994.",
+      "heroKicker": "Area 03 / 06 · Gauteng",
+      "heroTitle": "Climate engineering in",
+      "heroAccent": "Johannesburg.",
+      "lede": "From CBD heritage buildings to Rosebank restaurants and Fourways homes, Johannesburg is a city of different buildings with the same requirement: the system has to work tomorrow.",
+      "summary": [
+        { "label": "Coverage", "value": "CBD · Rosebank · Fourways" },
+        { "label": "Emergency", "value": "24/7 line" },
+        { "label": "Cold rooms", "value": "Prioritised" },
+        { "label": "Response", "value": "2–4 hours" }
+      ],
+      "introTitle": "A century of building stock",
+      "intro": [
+        "Johannesburg's buildings span a century. A CBD building may have risers and plant rooms that predate the equipment inside them; a Fourways home may have a split unit installed to a rule of thumb.",
+        "We scope each site on its actual constraints — access, power, drainage, noise and building rules — not on a generic template."
+      ],
+      "approachTitle": "How we work in Johannesburg",
+      "approach": [
+        { "title": "Plan access first", "body": "Loading, lift and after-hours constraints shape the schedule as much as the technical scope." },
+        { "title": "Triage the stock", "body": "Refrigeration and cold rooms holding product are prioritised on the emergency line." },
+        { "title": "Respect the building", "body": "Heritage and occupied buildings get protection, dust control and agreed working windows." }
+      ],
+      "localTitle": "What Johannesburg work looks like",
+      "local": [
+        { "title": "Restaurant and cold chain", "body": "Kitchens where a compressor failure threatens a full service stock. Our published recovery had the room running by 02:00 with nothing lost." },
+        { "title": "CBD access", "body": "Loading, crane and after-hours constraints shape the schedule as much as the technical scope." },
+        { "title": "Mixed residential", "body": "Older homes and estates with undersized units, blocked coils and drainage that has never been corrected." }
+      ],
+      "systems": ["Split and multi-split", "Commercial HVAC", "Display refrigeration", "Cold rooms", "Kitchen extraction", "Emergency repair"],
+      "proof": {
+        "value": "R0",
+        "label": "Stock lost at 02:00",
+        "note": "Johannesburg restaurant cold room, compressor replaced overnight with a full service stock inside."
+      },
+      "faqs": [
+        { "q": "Do you cover the whole city?", "a": "Johannesburg CBD, Rosebank, Fourways, Soweto and the surrounding metros are all inside our Gauteng coverage." },
+        { "q": "Can you get into a CBD building after hours?", "a": "Access is planned with building management. We confirm loading, lift and noise restrictions before mobilising." },
+        { "q": "Do you prioritise cold rooms?", "a": "Yes. Refrigeration holding stock is triaged first on the emergency line." }
+      ],
+      "relatedAreas": ["sandton", "randburg", "pretoria"],
+      "relatedServices": ["refrigeration", "cold-rooms", "commercial-hvac"]
+    },
+    {
+      "slug": "pretoria",
+      "name": "Pretoria",
+      "region": "Gauteng",
+      "index": "04",
+      "metaTitle": "HVAC & Refrigeration in Pretoria | Totally Cool",
+      "metaDescription": "Air conditioning, HVAC and refrigeration across Pretoria, Centurion and Pretoria East. Residential and commercial service since 1994. Call 078 963 5441.",
+      "heroKicker": "Area 04 / 06 · Gauteng",
+      "heroTitle": "HVAC & refrigeration in",
+      "heroAccent": "Pretoria.",
+      "lede": "Highveld summers, estate homes and commercial buildings across Centurion and Pretoria East — sized for the load, not the showroom.",
+      "summary": [
+        { "label": "Coverage", "value": "Pretoria · Centurion" },
+        { "label": "Sectors", "value": "Home · commercial" },
+        { "label": "Response", "value": "2–4 hours" },
+        { "label": "Since", "value": "1994" }
+      ],
+      "introTitle": "A climate that swings",
+      "intro": [
+        "Pretoria's climate swings hard: hot, dry summers and cold winters, with buildings that often need cooling and heating from the same equipment.",
+        "We size for the real orientation, glazing and occupancy, then commission so the system delivers its rating on the hottest afternoon — not just on the day it was installed."
+      ],
+      "approachTitle": "How we work in Pretoria",
+      "approach": [
+        { "title": "Size for the swing", "body": "Cooling and heating duty are considered together, with the changeover and controls set for Highveld seasons." },
+        { "title": "Service before summer", "body": "Maintenance is scheduled ahead of the first heat, when a neglected unit is most likely to fail." },
+        { "title": "Support the estate", "body": "Multi-room homes get zone-by-zone commissioning so one undersized unit is not carrying the whole plan." }
+      ],
+      "localTitle": "What Pretoria work looks like",
+      "local": [
+        { "title": "Estate homes", "body": "Multi-room homes where a single undersized unit was expected to carry the whole floor plan." },
+        { "title": "Centurion commercial", "body": "Offices and retail units with after-hours plant operation and controls that were never scheduled." },
+        { "title": "Seasonal maintenance", "body": "Pre-summer servicing and filter cycles that keep capacity available when the building needs it most." }
+      ],
+      "systems": ["Inverter splits", "Ducted systems", "Commercial HVAC", "Ventilation", "Cold rooms", "Service contracts"],
+      "proof": {
+        "value": "2–4h",
+        "label": "Emergency response target",
+        "note": "Metro response window for Gauteng, with 24/7 phone coverage and after-hours callouts."
+      },
+      "faqs": [
+        { "q": "Do you cover Pretoria East and Centurion?", "a": "Yes, along with Tshwane and the surrounding Gauteng metros." },
+        { "q": "Do you service homes?", "a": "Residential splits, ducted systems and home offices are a core part of the Pretoria workload." },
+        { "q": "How fast is an emergency callout?", "a": "The Gauteng metro target is 2–4 hours, with the 24/7 line triaging refrigeration stock first." }
+      ],
+      "relatedAreas": ["johannesburg", "sandton", "randburg"],
+      "relatedServices": ["air-conditioning", "commercial-hvac", "maintenance"]
+    },
+    {
+      "slug": "cape-town",
+      "name": "Cape Town",
+      "region": "Western Cape",
+      "index": "05",
+      "metaTitle": "HVAC & Refrigeration in Cape Town | Totally Cool",
+      "metaDescription": "HVAC, commercial refrigeration and cold-room projects in Cape Town. Coastal specifications, national mobilisation and 24/7 emergency triage.",
+      "heroKicker": "Area 05 / 06 · Western Cape",
+      "heroTitle": "HVAC & refrigeration in",
+      "heroAccent": "Cape Town.",
+      "lede": "Coastal air is hard on condensers, cabinets and cold-room plant. We specify for corrosion and humidity, then mobilise project teams from our Randburg base.",
+      "summary": [
+        { "label": "Base", "value": "Randburg (national)" },
+        { "label": "Coastal spec", "value": "Corrosion-aware" },
+        { "label": "Record", "value": "Freezer restored overnight" },
+        { "label": "Emergency", "value": "24/7 triage" }
+      ],
+      "introTitle": "The coast is a different brief",
+      "intro": [
+        "Cape Town's salt-laden air accelerates coil corrosion, fastener decay and cabinet rust. Equipment that survives inland can fail early on the coast if it is specified and maintained like an inland job.",
+        "Our base is Randburg. Cape Town projects are scheduled with the same engineers and documented to the same standard, with response windows confirmed on the call rather than promised on a page."
+      ],
+      "approachTitle": "How we work in Cape Town",
+      "approach": [
+        { "title": "Specify for salt", "body": "Corrosion-resistant coils, finishes and fasteners, with a condenser cleaning cycle that matches the exposure." },
+        { "title": "Plan the mobilisation", "body": "Project work is scheduled in advance with the same engineers who handle the inland sites, not a local subcontractor." },
+        { "title": "Verify the pull-down", "body": "Freezer and cold-room work is commissioned to temperature and documented before handover." }
+      ],
+      "localTitle": "What Cape Town work looks like",
+      "local": [
+        { "title": "Coastal specification", "body": "Corrosion-resistant coils, finishes and fasteners, with a condenser cleaning cycle that matches the exposure." },
+        { "title": "Food and beverage", "body": "Walk-in freezer recovery for a producer on a daily dispatch schedule, returned to temperature overnight." },
+        { "title": "Humidity and drainage", "body": "Drainage, insulation and defrost designed for a damp coastal cycle, not a dry Highveld one." }
+      ],
+      "systems": ["Commercial refrigeration", "Cold rooms and freezers", "Split and multi-split", "Ventilation", "Maintenance contracts", "Emergency repair"],
+      "proof": {
+        "value": "1",
+        "label": "Freezer restored overnight",
+        "note": "Cape Town food-and-beverage walk-in freezer; dispatch unaffected the next morning."
+      },
+      "faqs": [
+        { "q": "Do you have a Cape Town office?", "a": "No. The base is Randburg; Cape Town work is project-based and delivered by our own engineers, not a local subcontractor." },
+        { "q": "How fast can you respond in Cape Town?", "a": "Emergency response is confirmed when you call, based on the site and crew position. We do not advertise a local response time we cannot hold." },
+        { "q": "Can you maintain a coastal system?", "a": "Yes, with a schedule built around corrosion inspection and condenser cleaning rather than a generic inland checklist." }
+      ],
+      "relatedAreas": ["durban", "johannesburg"],
+      "relatedServices": ["refrigeration", "cold-rooms", "maintenance"]
+    },
+    {
+      "slug": "durban",
+      "name": "Durban",
+      "region": "KwaZulu-Natal",
+      "index": "06",
+      "metaTitle": "HVAC & Refrigeration in Durban | Totally Cool",
+      "metaDescription": "HVAC, refrigeration and cold-room projects in Durban and Umhlanga. Humidity-aware design, corrosion specification and national project mobilisation.",
+      "heroKicker": "Area 06 / 06 · KwaZulu-Natal",
+      "heroTitle": "HVAC & refrigeration in",
+      "heroAccent": "Durban.",
+      "lede": "Durban asks different questions of a cooling system: humidity, salt air and kitchens that never really dry out. We design for the coast, not for the Highveld.",
+      "summary": [
+        { "label": "Coverage", "value": "Durban · Umhlanga" },
+        { "label": "Climate", "value": "Hot, humid, coastal" },
+        { "label": "Scope", "value": "Projects + service" },
+        { "label": "Emergency", "value": "24/7 triage" }
+      ],
+      "introTitle": "Cooling is only half the job",
+      "intro": [
+        "In Durban, sensible cooling is only half the job. Latent load, drainage, defrost and corrosion decide whether a system stays comfortable and serviceable.",
+        "We specify coastal equipment and maintenance intervals accordingly, and mobilise from Randburg for scheduled projects and confirmed emergency work."
+      ],
+      "approachTitle": "How we work in Durban",
+      "approach": [
+        { "title": "Design for latent load", "body": "Humidity removal is sized with the cooling load, not left to a lower setpoint and a longer run time." },
+        { "title": "Protect the coils", "body": "Coil coatings, cabinet finishes and fastener choices accept the coastal environment instead of failing in it." },
+        { "title": "Drain the details", "body": "Condensate routes, insulation and defrost cycles are designed for a building that is often damp." }
+      ],
+      "localTitle": "What Durban work looks like",
+      "local": [
+        { "title": "Hospitality and retail", "body": "Restaurants, bars and retail where display refrigeration and comfort cooling run long hours in humid air." },
+        { "title": "Corrosion control", "body": "Coil coatings, cabinet finishes and fastener choices that accept the coastal environment instead of failing in it." },
+        { "title": "Ventilation and moisture", "body": "Kitchen extraction and fresh-air design that removes moisture at the source rather than letting it condense elsewhere." }
+      ],
+      "systems": ["Display refrigeration", "Cold rooms", "Split and ducted", "Kitchen ventilation", "Humidity control", "Maintenance"],
+      "proof": {
+        "value": "24/7",
+        "label": "Emergency line",
+        "note": "Refrigeration and cold-room calls are triaged first; response windows are confirmed against crew position."
+      },
+      "faqs": [
+        { "q": "Do you cover Umhlanga and Durban North?", "a": "Durban, Umhlanga and the surrounding coastal belt are inside the national coverage; projects are scheduled from Randburg." },
+        { "q": "Why does coastal HVAC need different maintenance?", "a": "Salt air and humidity accelerate coil and cabinet corrosion, and drainage or defrost faults show up faster. The service cycle reflects that." },
+        { "q": "Can you help with a humid restaurant?", "a": "Yes. We measure the latent load and the extraction, then correct the ventilation and cooling design together." }
+      ],
+      "relatedAreas": ["cape-town", "johannesburg"],
+      "relatedServices": ["refrigeration", "ventilation", "cold-rooms"]
+    }
+  ]
+}

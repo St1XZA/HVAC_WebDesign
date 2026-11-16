@@ -1,0 +1,13 @@
+node_modules/
+dist/
+# Generated landing-page HTML (source: src/content/landing.json)
+/services/
+/areas/
+.vite-dev.log
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.cloud-attachments/
